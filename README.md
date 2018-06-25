@@ -1,7 +1,8 @@
 # Group-project-PHP
-A series of PHP web pages written over a week as part of my contribution to a computer science group project
-Use PHP in order to design a website that could be used by hospital staff and patients.
+A series of PHP web pages written over a week as part of my contribution to a computer science group project.
 
+
+Use PHP in order to design a website that could be used by hospital staff and patients.
 Currently working functionality:
 Login functionality with session usage to control access level.
 Database passwords saved as hash values to prevent tampering and ensure security.
